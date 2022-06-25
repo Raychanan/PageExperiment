@@ -1,0 +1,3 @@
+[submodule "your_module_name"]
+path = ./page/
+url = git/url/to/repo
